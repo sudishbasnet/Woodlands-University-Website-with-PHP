@@ -1,0 +1,77 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+a:hover{
+	text-decoration: none;
+}
+.onlinedot{
+	display: inline-block;
+	width: 10px;
+	height: 10px;	
+	background-color: green;
+	border-radius: 50%;
+}
+.img-thumbnail{
+	width: 160px;
+	height: 160px;
+	border-radius: 50%;
+}
+.sidemenu{
+	color: white;
+}
+.nav>li>a:focus, .nav>li>a:hover {
+    text-decoration: none;
+    background-color: white;
+}
+.navbar-inverse {
+    background-color: #000B14;
+    border-color: #333;	
+}
+.badge{
+	font-size: 8px;
+    margin-left: -14px;
+    background-color: white;
+    color: black;
+}
+.fa{
+	color: #698287;
+	margin: 7%;
+}
+#side{
+    position: fixed;
+    bottom: 0;
+    top: 52px;
+    left: 0;
+    width: 15%;
+    z-index: 1;
+}
+#topnav{
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	z-index: 1;
+}
+#staff_form{
+	margin: 0 10%;
+    padding: 1% 10%;
+    border: 1px solid black;
+    box-shadow: 0 2px 4px 0 black;
+}
+#main-content{
+	margin:70px -117px 12px 1px;
+	overflow-x: auto;
+}
+.dropdown-menu{	
+	margin: 9px 0px 10px -54px;
+}
+.profile_details{
+	font-size: 16px;
+}
+
+@media (min-width: 768px){
+	.navbar {
+	    border-radius: 0px;
+	}
+}
