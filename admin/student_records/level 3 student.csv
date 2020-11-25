@@ -1,0 +1,77 @@
+admission_id,First Name,Middle Name,Surname,Email,Address,Phone Number,Course Assigned,Date of birth,Gender,Father's Name,Mother's Name,Parent's Contact,Father's Email,Year Assigned,Reason For Dormant,Record Status,Letter status
+20110112,Tilja,,Stevens,dean@example.com,"London, Uk",23345454,1,7/15/2019,F,Jeremy,Navada,67898909,Jeremy@gmail.com,3,,provisional,unconditional
+20110114,Tao,,Bowers,johndev@gmail.com,"London, Uk",98598940,1,7/10/2019,M,Johnny,Andy,12345455,johnny@gmail.com,3,,provisional,unconditional
+20110120,Timothy,,Perkins,gary@hotmail.com,"Northampton, Uk",56745334,1,7/11/2019,M,Sasha,Emmy,56765455,sahsa@hotmail.com,3,,provisional,conditional
+20110123,Wajid,,Grainger,nikkibytes@gmail.com,"London, Uk",12345445,1,7/12/2019,F,Adam,Noelle,67785548,adam@gmail.com,3,,provisional,conditional
+20110125,Ross,,Considine,betty@example.com,"Northampton, Uk",13545546,1,7/13/2019,F,Aron,Mona,89086765,aron@hotmail.com,3,,provisional,conditional
+20110126,Siripoj,,Packard,grant@gmail.com,"Northampton, Uk",24342345,1,7/14/2019,M,Felix,Kaitlin,57987909,felix@hotmail.com,3,,provisional,unconditional
+20110131,Stuart,,Chinner,dean@example.com,"London, Uk",23345454,1,7/15/2019,F,Jeremy,Navada,67898909,Jeremy@gmail.com,3,,provisional,unconditional
+20110146,Pratik,,Behagg,johndev@gmail.com,"London, Uk",98598940,1,7/10/2019,M,Johnny,Andy,12345455,johnny@gmail.com,3,,provisional,unconditional
+20110147,Ricky,,Thomas,gary@hotmail.com,"Northampton, Uk",56745334,1,7/11/2019,M,Sasha,Emmy,56765455,sahsa@hotmail.com,3,,provisional,conditional
+20110152,Stuart,,Osborne,nikkibytes@gmail.com,"London, Uk",12345445,1,7/12/2019,F,Adam,Noelle,67785548,adam@gmail.com,3,,provisional,conditional
+20110157,Wayne,,Deep,betty@example.com,"Northampton, Uk",13545546,1,7/13/2019,F,Aron,Mona,89086765,aron@hotmail.com,3,,provisional,conditional
+20110158,William,,Masood,grant@gmail.com,"Northampton, Uk",24342345,1,7/14/2019,M,Felix,Kaitlin,57987909,felix@hotmail.com,3,,provisional,unconditional
+20110159,William,,Bradley ,dean@example.com,"London, Uk",23345454,1,7/15/2019,F,Jeremy,Navada,67898909,Jeremy@gmail.com,3,,provisional,unconditional
+20110162,Thomas,,Browne,johndev@gmail.com,"London, Uk",98598940,1,7/10/2019,M,Johnny,Andy,12345455,johnny@gmail.com,3,,provisional,unconditional
+20110166,Stuart,,Broughton,gary@hotmail.com,"Northampton, Uk",56745334,1,7/11/2019,M,Sasha,Emmy,56765455,sahsa@hotmail.com,3,,provisional,conditional
+20110176,Russell,,Khan,nikkibytes@gmail.com,"London, Uk",12345445,1,7/12/2019,F,Adam,Noelle,67785548,adam@gmail.com,3,,provisional,conditional
+20110177,Ross,,Gravett,betty@example.com,"Northampton, Uk",13545546,1,7/13/2019,F,Aron,Mona,89086765,aron@hotmail.com,3,,provisional,conditional
+20110185,Saeed najia,,Neal,grant@gmail.com,"Northampton, Uk",24342345,1,7/14/2019,M,Felix,Kaitlin,57987909,felix@hotmail.com,3,,provisional,unconditional
+20110191,Rafik,,Swallow,dean@example.com,"London, Uk",23345454,1,7/15/2019,F,Jeremy,Navada,67898909,Jeremy@gmail.com,3,,provisional,unconditional
+20110194,Vivian,,Rose,johndev@gmail.com,"London, Uk",98598940,1,7/10/2019,M,Johnny,Andy,12345455,johnny@gmail.com,3,,provisional,unconditional
+20110195,Warren,,Lam,gary@hotmail.com,"Northampton, Uk",56745334,1,7/11/2019,M,Sasha,Emmy,56765455,sahsa@hotmail.com,3,,provisional,conditional
+20110204,Stephen,,Broughton,nikkibytes@gmail.com,"London, Uk",12345445,1,7/12/2019,F,Adam,Noelle,67785548,adam@gmail.com,3,,provisional,conditional
+20110211,Saeed najia,,Antonipillai,betty@example.com,"Northampton, Uk",13545546,1,7/13/2019,F,Aron,Mona,89086765,aron@hotmail.com,3,,provisional,conditional
+20110213,Pratik,,Forsythe,grant@gmail.com,"Northampton, Uk",24342345,1,7/14/2019,M,Felix,Kaitlin,57987909,felix@hotmail.com,3,,provisional,unconditional
+20110217,Tao,,Tailor,dean@example.com,"London, Uk",23345454,1,7/15/2019,F,Jeremy,Navada,67898909,Jeremy@gmail.com,3,,provisional,unconditional
+20110219,Vivian,,Petty,johndev@gmail.com,"London, Uk",98598940,1,7/10/2019,M,Johnny,Andy,12345455,johnny@gmail.com,3,,provisional,unconditional
+20110222,Stuart,,Sharp ,gary@hotmail.com,"Northampton, Uk",56745334,1,7/11/2019,M,Sasha,Emmy,56765455,sahsa@hotmail.com,3,,provisional,conditional
+20110228,Simon,,Woolston,nikkibytes@gmail.com,"London, Uk",12345445,1,7/12/2019,F,Adam,Noelle,67785548,adam@gmail.com,3,,provisional,conditional
+20110231,Richard,,Smith,betty@example.com,"Northampton, Uk",13545546,1,7/13/2019,F,Aron,Mona,89086765,aron@hotmail.com,3,,provisional,conditional
+20110233,Thomas,,Aslam,grant@gmail.com,"Northampton, Uk",24342345,1,7/14/2019,M,Felix,Kaitlin,57987909,felix@hotmail.com,3,,provisional,unconditional
+20110238,Phillip,,Collis,dean@example.com,"London, Uk",23345454,1,7/15/2019,F,Jeremy,Navada,67898909,Jeremy@gmail.com,3,,provisional,unconditional
+20110242,Rajab,,Stretton,johndev@gmail.com,"London, Uk",98598940,1,7/10/2019,M,Johnny,Andy,12345455,johnny@gmail.com,3,,provisional,unconditional
+20110243,Steven,,Howard,gary@hotmail.com,"Northampton, Uk",56745334,1,7/11/2019,M,Sasha,Emmy,56765455,sahsa@hotmail.com,3,,provisional,conditional
+20110248,Sallyann,,Turvey,nikkibytes@gmail.com,"London, Uk",12345445,1,7/12/2019,F,Adam,Noelle,67785548,adam@gmail.com,3,,provisional,conditional
+20110268,Richard,,Dalmau,betty@example.com,"Northampton, Uk",13545546,1,7/13/2019,F,Aron,Mona,89086765,aron@hotmail.com,3,,provisional,conditional
+20110274,Ryan,,Slatcher,grant@gmail.com,"Northampton, Uk",24342345,1,7/14/2019,M,Felix,Kaitlin,57987909,felix@hotmail.com,3,,provisional,unconditional
+20110279,Shane,,Mcgregor,dean@example.com,"London, Uk",23345454,1,7/15/2019,F,Jeremy,Navada,67898909,Jeremy@gmail.com,3,,provisional,unconditional
+20110286,Stuart,,Gornall,johndev@gmail.com,"London, Uk",98598940,1,7/10/2019,M,Johnny,Andy,12345455,johnny@gmail.com,3,,provisional,unconditional
+20110291,Tamsin,,Caudle,gary@hotmail.com,"Northampton, Uk",56745334,1,7/11/2019,M,Sasha,Emmy,56765455,sahsa@hotmail.com,3,,provisional,conditional
+20110293,Tarun,,Petty,nikkibytes@gmail.com,"London, Uk",12345445,1,7/12/2019,F,Adam,Noelle,67785548,adam@gmail.com,3,,provisional,conditional
+20110294,Tawanda,,Stryjek,betty@example.com,"Northampton, Uk",13545546,1,7/13/2019,F,Aron,Mona,89086765,aron@hotmail.com,3,,provisional,conditional
+20110298,Tilja,,Edwards,grant@gmail.com,"Northampton, Uk",24342345,1,7/14/2019,M,Felix,Kaitlin,57987909,felix@hotmail.com,3,,provisional,unconditional
+20110302,Wayne,,Hickman,dean@example.com,"London, Uk",23345454,1,7/15/2019,F,Jeremy,Navada,67898909,Jeremy@gmail.com,3,,provisional,unconditional
+20110304,Warren,,Albert,johndev@gmail.com,"London, Uk",98598940,1,7/10/2019,M,Johnny,Andy,12345455,johnny@gmail.com,3,,provisional,unconditional
+20110305,Vivian,,Rose,gary@hotmail.com,"Northampton, Uk",56745334,1,7/11/2019,M,Sasha,Emmy,56765455,sahsa@hotmail.com,3,,provisional,conditional
+20110307,Timothy,,Khan,nikkibytes@gmail.com,"London, Uk",12345445,1,7/12/2019,F,Adam,Noelle,67785548,adam@gmail.com,3,,provisional,conditional
+20110308,Suleiman,,Browne,betty@example.com,"Northampton, Uk",13545546,1,7/13/2019,F,Aron,Mona,89086765,aron@hotmail.com,3,,provisional,conditional
+20110309,Stuart,,Pell,grant@gmail.com,"Northampton, Uk",24342345,1,7/14/2019,M,Felix,Kaitlin,57987909,felix@hotmail.com,3,,provisional,unconditional
+20110311,Steven,,Broughton,dean@example.com,"London, Uk",23345454,1,7/15/2019,F,Jeremy,Navada,67898909,Jeremy@gmail.com,3,,provisional,unconditional
+20110313,Simon,,Dalmau,johndev@gmail.com,"London, Uk",98598940,1,7/10/2019,M,Johnny,Andy,12345455,johnny@gmail.com,3,,provisional,unconditional
+20110314,Simon,,Turvey,gary@hotmail.com,"Northampton, Uk",56745334,1,7/11/2019,M,Sasha,Emmy,56765455,sahsa@hotmail.com,3,,provisional,conditional
+20110315,Robert,,Mohammed,nikkibytes@gmail.com,"London, Uk",12345445,1,7/12/2019,F,Adam,Noelle,67785548,adam@gmail.com,3,,provisional,conditional
+20110319,Phillip,,Hussain,betty@example.com,"Northampton, Uk",13545546,1,7/13/2019,F,Aron,Mona,89086765,aron@hotmail.com,3,,provisional,conditional
+20110320,Phillip,,Antonipillai,grant@gmail.com,"Northampton, Uk",24342345,1,7/14/2019,M,Felix,Kaitlin,57987909,felix@hotmail.com,3,,provisional,unconditional
+20110326,Siripoj,,Bradley ,dean@example.com,"London, Uk",23345454,1,7/15/2019,F,Jeremy,Navada,67898909,Jeremy@gmail.com,3,,provisional,unconditional
+20110328,Wayne,,Neech,johndev@gmail.com,"London, Uk",98598940,1,7/10/2019,M,Johnny,Andy,12345455,johnny@gmail.com,3,,provisional,unconditional
+20110329,Steven,,Johal,gary@hotmail.com,"Northampton, Uk",56745334,1,7/11/2019,M,Sasha,Emmy,56765455,sahsa@hotmail.com,3,,provisional,conditional
+20110334,Stephen,,Considine,nikkibytes@gmail.com,"London, Uk",12345445,1,7/12/2019,F,Adam,Noelle,67785548,adam@gmail.com,3,,provisional,conditional
+20110335,Renard,,Barrett,betty@example.com,"Northampton, Uk",13545546,1,7/13/2019,F,Aron,Mona,89086765,aron@hotmail.com,3,,provisional,conditional
+20110337,Ryan,,Sidhu,grant@gmail.com,"Northampton, Uk",24342345,1,7/14/2019,M,Felix,Kaitlin,57987909,felix@hotmail.com,3,,provisional,unconditional
+20110338,Tarun,,Patchett,dean@example.com,"London, Uk",23345454,1,7/15/2019,F,Jeremy,Navada,67898909,Jeremy@gmail.com,3,,provisional,unconditional
+20110339,Tamsin,,Grewal,johndev@gmail.com,"London, Uk",98598940,1,7/10/2019,M,Johnny,Andy,12345455,johnny@gmail.com,3,,provisional,unconditional
+20110341,Wayne,,Adams,gary@hotmail.com,"Northampton, Uk",56745334,1,7/11/2019,M,Sasha,Emmy,56765455,sahsa@hotmail.com,3,,provisional,conditional
+20110345,Steven,,Lam,nikkibytes@gmail.com,"London, Uk",12345445,1,7/12/2019,F,Adam,Noelle,67785548,adam@gmail.com,3,,provisional,conditional
+20110348,Theresa,,Fletcher,betty@example.com,"Northampton, Uk",13545546,1,7/13/2019,F,Aron,Mona,89086765,aron@hotmail.com,3,,provisional,conditional
+20110349,Theresa,,Chaggar,grant@gmail.com,"Northampton, Uk",24342345,1,7/14/2019,M,Felix,Kaitlin,57987909,felix@hotmail.com,3,,provisional,unconditional
+20110350,Rajab,,Tailor,dean@example.com,"London, Uk",23345454,1,7/15/2019,F,Jeremy,Navada,67898909,Jeremy@gmail.com,3,,provisional,unconditional
+20110354,Shane,,Barrios,johndev@gmail.com,"London, Uk",98598940,1,7/10/2019,M,Johnny,Andy,12345455,johnny@gmail.com,3,,provisional,unconditional
+20110362,Wajid,,Davies,gary@hotmail.com,"Northampton, Uk",56745334,1,7/11/2019,M,Sasha,Emmy,56765455,sahsa@hotmail.com,3,,provisional,conditional
+20110374,Ricky,,Vokes,nikkibytes@gmail.com,"London, Uk",12345445,1,7/12/2019,F,Adam,Noelle,67785548,adam@gmail.com,3,,provisional,conditional
+20110377,Renard,,Carpenter ,betty@example.com,"Northampton, Uk",13545546,1,7/13/2019,F,Aron,Mona,89086765,aron@hotmail.com,3,,provisional,conditional
+20110387,Robert,,Guven,grant@gmail.com,"Northampton, Uk",24342345,1,7/14/2019,M,Felix,Kaitlin,57987909,felix@hotmail.com,3,,provisional,unconditional
+20110388,Rafik,,Sharp ,dean@example.com,"London, Uk",23345454,1,7/15/2019,F,Jeremy,Navada,67898909,Jeremy@gmail.com,3,,provisional,unconditional
+20110390,Vivian,,Dempster,johndev@gmail.com,"London, Uk",98598940,1,7/10/2019,M,Johnny,Andy,12345455,johnny@gmail.com,3,,provisional,unconditional
+20110392,Tawanda,,Deep,gary@hotmail.com,"Northampton, Uk",56745334,1,7/11/2019,M,Sasha,Emmy,56765455,sahsa@hotmail.com,3,,provisional,conditional
+20110397,Suleiman,,Knight,nikkibytes@gmail.com,"London, Uk",12345445,1,7/12/2019,F,Adam,Noelle,67785548,adam@gmail.com,3,,provisional,conditional

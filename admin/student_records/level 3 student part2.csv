@@ -1,0 +1,6 @@
+admission_id,First Name,Middle Name,Surname,Email,Address,Phone Number,Course Assigned,Date of birth,Gender,Father's Name,Mother's Name,Parent's Contact,Father's Email,Year Assigned,Reason For Dormant,Record Status,Letter status
+20110101,Simon,,Bolderson,johndev@gmail.com,"London, Uk",98598940,1,7/10/2019,M,Johnny,Andy,12345455,johnny@gmail.com,3,,provisional,unconditional
+20110105,Russell,,Grewal,gary@hotmail.com,"Northampton, Uk",56745334,1,7/11/2019,M,Sasha,Emmy,56765455,sahsa@hotmail.com,3,,provisional,conditional
+20110108,Peter,,Risby,nikkibytes@gmail.com,"London, Uk",12345445,1,7/12/2019,F,Adam,Noelle,67785548,adam@gmail.com,3,,provisional,conditional
+20110109,Sallyann,,Holland,betty@example.com,"Northampton, Uk",13545546,1,7/13/2019,F,Aron,Mona,89086765,aron@hotmail.com,3,,provisional,conditional
+20110110,Phillip,,Dzialoszynski,grant@gmail.com,"Northampton, Uk",24342345,1,7/14/2019,M,Felix,Kaitlin,57987909,felix@hotmail.com,3,,provisional,unconditional
